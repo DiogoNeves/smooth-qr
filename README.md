@@ -11,7 +11,8 @@ Generates QR codes with custom URLs and rounded corners.
 ## Example
 
 Here's an example of a generated QR code:
-![QR Code](qrcode.png)
+
+<img src="qrcode.png" alt="QR Code" width="200">
 
 ## Requirements
 
