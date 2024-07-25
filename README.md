@@ -33,7 +33,8 @@ Here's an example of a generated QR code:
 2. Install the required packages:
 
     ```sh
-    pip install qrcode[pil] Pillow typer[all]
+    # I recommend creating a virtual environment before
+    pip install -r requirements.txt
     ```
 
 ## Usage
