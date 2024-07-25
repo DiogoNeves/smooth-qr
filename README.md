@@ -6,9 +6,7 @@ This Python script generates QR codes with rounded corners. It can save the gene
 
 ## Features
 
-- Generates QR codes with custom URLs
-- Adds rounded corners to the QR codes
-- Saves the QR code to a file
+Generates QR codes with custom URLs and rounded corners.
 
 ## Requirements
 
